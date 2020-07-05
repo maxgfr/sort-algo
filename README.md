@@ -1,4 +1,4 @@
-# sortSponso
+# sort_algo
 
 Algorithm for sorting sponsoring post in a newsfeed
 
