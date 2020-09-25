@@ -1,6 +1,6 @@
 # sort-algo
 
-Algorithm for sorting sponsoring post in a newsfeed
+Algorithm for sorting two types of posts (S and N) in a newsfeed
 
 ## To test it
 
